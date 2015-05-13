@@ -1,0 +1,6 @@
+*.class
+*.iml
+hs_err_pid*
+
+target/*
+
